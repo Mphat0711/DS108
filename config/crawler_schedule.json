@@ -1,0 +1,47 @@
+{
+  "timezone": "Asia/Ho_Chi_Minh",
+  "poll_seconds": 60,
+  "state_file": "logs/crawler_state.json",
+  "log_dir": "logs/crawler_runs",
+  "jobs": [
+    {
+      "id": "airport_stats",
+      "description": "Collect airport delay and traffic statistics.",
+      "enabled": true,
+      "script": "source/0_crawler/airport_stats_crawl.py",
+      "cwd": ".",
+      "timeout_minutes": 180,
+      "schedule": {
+        "type": "daily_times",
+        "times": ["18:00", "20:00", "22:00"],
+        "days": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+      }
+    },
+    {
+      "id": "weather_metar",
+      "description": "Collect METAR weather observations.",
+      "enabled": true,
+      "script": "source/0_crawler/weather_crawl.py",
+      "cwd": ".",
+      "timeout_minutes": 180,
+      "schedule": {
+        "type": "interval",
+        "every_hours": 48,
+        "anchor": "2026-01-01T02:00:00+07:00"
+      }
+    },
+    {
+      "id": "flight_list",
+      "description": "Collect flight history by aircraft registration.",
+      "enabled": true,
+      "script": "source/0_crawler/flight_list_crawl.py",
+      "cwd": ".",
+      "timeout_minutes": 360,
+      "schedule": {
+        "type": "interval",
+        "every_days": 6,
+        "anchor": "2026-01-01T03:00:00+07:00"
+      }
+    }
+  ]
+}

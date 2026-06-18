@@ -1,0 +1,196 @@
+Name,IATA,ICAO,Country,GMT_Timezone
+Ahmedabad International Airport,AMD,VAAH,India,GMT+05:30
+Aspen Pitkin County Airport,ASE,KASE,United States,GMT-06:00
+Athens Eleftherios Venizelos,ATH,LGAV,Greece,GMT+02:00
+Bainbridge Decatur County Airport,BGE,KBGE,United States,GMT-04:00
+Bangkok Suvarnabhumi Airport,BKK,VTBS,Thailand,GMT+07:00
+Barcelona El Prat Airport,BCN,LEBL,Spain,GMT+01:00
+Bedford Hanscom Field,BED,KBED,United States,GMT-04:00
+Beijing Capital International Airport,PEK,ZBAA,China,GMT+08:00
+Beijing Daxing International Airport,PKX,ZBAD,China,GMT+08:00
+Belmar Monmouth Executive Airport,BLM,KBLM,United States,GMT-04:00
+Bengaluru Kempegowda International Airport,BLR,VOBL,India,GMT+05:30
+Berlin Brandenburg Airport,BER,EDDB,Germany,GMT+01:00
+Bilbao Airport,BIO,LEBB,Spain,GMT+01:00
+Boca Raton Airport,BCT,KBCT,United States,GMT-04:00
+Boston Logan International Airport,BOS,KBOS,United States,GMT-04:00
+Bozeman Yellowstone International Airport,BZN,KBZN,United States,GMT-06:00
+Bratislava M. R. Stefanik Airport,BTS,LZIB,Slovakia,GMT+01:00
+Brisbane Airport,BNE,YBBN,Australia,GMT+10:00
+Brunswick Malcolm McKinnon Airport,SSI,KSSI,United States,GMT-04:00
+Budapest Ferenc Liszt International Airport,BUD,LHBP,Hungary,GMT+01:00
+Buffalo Niagara International Airport,BUF,KBUF,United States,GMT-04:00
+Buon Ma Thuot Airport,BMV,VVBM,Vietnam,GMT+07:00
+Busan Gimhae International Airport,PUS,RKPK,South Korea,GMT+09:00
+Can Tho International Airport,VCA,VVCT,Vietnam,GMT+07:00
+Cebu Mactan International Airport,CEB,RPVM,Philippines,GMT+08:00
+Chambery Airport,CMF,LFLB,France,GMT+01:00
+Charleston International Airport,CHS,KCHS,United States,GMT-04:00
+Charlotte Douglas International Airport,CLT,KCLT,United States,GMT-04:00
+Chicago DuPage Airport,DPA,KDPA,United States,GMT-05:00
+Chicago Executive Airport,PWK,KPWK,United States,GMT-05:00
+Chicago Gary International,GYY,KGYY,United States,GMT-05:00
+Chicago Midway International Airport,MDW,KMDW,United States,GMT-05:00
+Chicago O'Hare International Airport,ORD,KORD,United States,GMT-05:00
+Chicago Waukegan National Airport,UGN,KUGN,United States,GMT-05:00
+Chu Lai International Airport,VCL,VVCA,Vietnam,GMT+07:00
+Coatesville Chester County Area Airport,CTH,KMQS,United States,GMT-04:00
+Columbus John Glenn International Airport,CMH,KCMH,United States,GMT-04:00
+Con Dao Airport,VCS,VVCS,Vietnam,GMT+07:00
+Conroe Lone Star Executive Airport,CXO,KCXO,United States,GMT-05:00
+Copenhagen Airport,CPH,EKCH,Denmark,GMT+01:00
+Da Nang International Airport,DAD,VVDN,Vietnam,GMT+07:00
+Daegu International Airport,TAE,RKTN,South Korea,GMT+09:00
+Dallas Addison Airport,ADS,KADS,United States,GMT-05:00
+Dallas Love Field Airport,DAL,KDAL,United States,GMT-05:00
+Delhi Indira Gandhi International Airport,DEL,VIDP,India,GMT+05:30
+Denpasar Ngurah Rai International Airport,DPS,WADD,Indonesia,GMT+08:00
+Dien Bien Phu Airport,DIN,VVDB,Vietnam,GMT+07:00
+Dong Hoi Airport,VDH,VVDH,Vietnam,GMT+07:00
+Dublin Airport,DUB,EIDW,Ireland,GMT+00:00
+Eagle County Regional Airport,EGE,KEGE,United States,GMT-06:00
+Farmingdale Republic Airport,FRG,KFRG,United States,GMT-04:00
+Farnborough Airport,FAB,EGLF,United Kingdom,GMT+00:00
+Faro Airport,FAO,LPFR,Portugal,GMT+00:00
+Fort Lauderdale Hollywood International Airport,FLL,KFLL,United States,GMT-04:00
+Frankfurt Airport,FRA,EDDF,Germany,GMT+01:00
+Fukuoka Airport,FUK,RJFF,Japan,GMT+09:00
+Gdansk Lech Walesa Airport,GDN,EPGD,Poland,GMT+01:00
+Geneva International Airport,GVA,LSGG,Switzerland,GMT+01:00
+Gran Canaria Airport,LPA,GCLP,Spain,GMT+00:00
+Greenville Majors Airport,GVT,KGVT,United States,GMT-05:00
+Guangzhou Baiyun International Airport,CAN,ZGGG,China,GMT+08:00
+Haiphong Cat Bi International Airport,HPH,VVCI,Vietnam,GMT+07:00
+Hanoi Noi Bai International Airport,HAN,VVNB,Vietnam,GMT+07:00
+Hayden Yampa Valley Airport,HDN,KHDN,United States,GMT-06:00
+Heber City Municipal Airport,QDH,KHCR,United States,GMT-06:00
+Heraklion International Airport,HER,LGIR,Greece,GMT+02:00
+Hiroshima Airport,HIJ,RJOA,Japan,GMT+09:00
+Ho Chi Minh City International Airport,SGN,VVTS,Vietnam,GMT+07:00
+Hong Kong International Airport,HKG,VHHH,Hong Kong,GMT+08:00
+Hot Springs Ingalls Field Airport,HSP,KHSP,United States,GMT-04:00
+Houston William P. Hobby Airport,HOU,KHOU,United States,GMT-05:00
+Hue Phu Bai International Airport,HUI,VVPB,Vietnam,GMT+07:00
+Hyderabad Rajiv Gandhi International Airport,HYD,VOHS,India,GMT+05:30
+Ibiza Airport,IBZ,LEIB,Spain,GMT+01:00
+Iowa City Municipal Airport,IOW,KIOW,United States,GMT-05:00
+Istanbul Ataturk Airport,ISL,LTBA,Turkey,GMT+03:00
+Jackson Hole Airport,JAC,KJAC,United States,GMT-06:00
+Jacksonville International Airport,JAX,KJAX,United States,GMT-04:00
+Jakarta Soekarno Hatta International Airport,CGK,WIII,Indonesia,GMT+07:00
+Kaohsiung International Airport,KHH,RCKH,Taiwan,GMT+08:00
+Karlsruhe / Baden-Baden Airport,FKB,EDSB,Germany,GMT+01:00
+Kingstown Argyle International Airport,SVD,TVSA,Saint Vincent And The Grenadines,GMT-04:00
+Kona International Airport,KOA,PHKO,United States,GMT-10:00
+Kuala Lumpur International Airport,KUL,WMKK,Malaysia,GMT+08:00
+Lagos Murtala Mohammed Airport,LOS,DNMM,Nigeria,GMT+01:00
+Larnaca International Airport,LCA,LCLK,Cyprus,GMT+02:00
+Las Vegas Harry Reid International Airport,LAS,KLAS,United States,GMT-07:00
+Las Vegas Henderson Executive Airport,HSH,KHND,United States,GMT-07:00
+Lijiang Sanyi Airport,LJG,ZPLJ,China,GMT+08:00
+Ljubljana Joze Pucnik Airport,LJU,LJLJ,Slovenia,GMT+01:00
+London Biggin Hill Airport,BQH,EGKB,United Kingdom,GMT+00:00
+London Heathrow Airport,LHR,EGLL,United Kingdom,GMT+00:00
+London Luton Airport,LTN,EGGW,United Kingdom,GMT+00:00
+London Oxford Airport,OXF,EGTK,United Kingdom,GMT+00:00
+London Stansted Airport,STN,EGSS,United Kingdom,GMT+00:00
+Los Angeles International Airport,LAX,KLAX,United States,GMT-07:00
+Luang Prabang International Airport,LPQ,VLLB,Laos,GMT+07:00
+Macau International Airport,MFM,VMMC,Macao,GMT+08:00
+Madrid Barajas Airport,MAD,LEMD,Spain,GMT+01:00
+Malaga Costa Del Sol Airport,AGP,LEMG,Spain,GMT+01:00
+Male Velana International Airport,MLE,VRMM,Maldives,GMT+05:00
+Manassas Regional Airport,MNZ,KHEF,United States,GMT-04:00
+Manila Ninoy Aquino International Airport,MNL,RPLL,Philippines,GMT+08:00
+Marathon Florida Keys Airport,MTH,KMTH,United States,GMT-04:00
+Melbourne Airport,MEL,YMML,Australia,GMT+11:00
+Melbourne International Airport,MLB,KMLB,United States,GMT-04:00
+Miami Executive Airport,TMB,KTMB,United States,GMT-04:00
+Miami International Airport,MIA,KMIA,United States,GMT-04:00
+Miami Opa Locka Executive Airport,OPF,KOPF,United States,GMT-04:00
+Milan Linate Airport,LIN,LIML,Italy,GMT+01:00
+Milan Malpensa Airport,MXP,LIMC,Italy,GMT+01:00
+Monterey Regional Airport,MRY,KMRY,United States,GMT-07:00
+Montrose Regional Airport,MTJ,KMTJ,United States,GMT-06:00
+Moscow Sheremetyevo International Airport,SVO,UUEE,Russia,GMT+03:00
+Mountain View Moffett Federal Airfield,NUQ,KNUQ,United States,GMT-07:00
+Mumbai Chhatrapati Shivaji International Airport,BOM,VABB,India,GMT+05:30
+Munich Airport,MUC,EDDM,Germany,GMT+01:00
+Nagoya Chubu Centrair International Airport,NGO,RJGG,Japan,GMT+09:00
+Nanjing Lukou International Airport,NKG,ZSNJ,China,GMT+08:00
+Naples Airport,NAP,LIRN,Italy,GMT+01:00
+Nashville International Airport,BNA,KBNA,United States,GMT-05:00
+Nassau Lynden Pindling International Airport,NAS,MYNN,Bahamas,GMT-04:00
+New Haven Tweed Airport,HVN,KHVN,United States,GMT-04:00
+New Orleans Louis Armstrong International Airport,MSY,KMSY,United States,GMT-05:00
+New York John F. Kennedy International Airport,JFK,KJFK,United States,GMT-04:00
+New York LaGuardia Airport,LGA,KLGA,United States,GMT-04:00
+Nha Trang Cam Ranh International Airport,CXR,VVCR,Vietnam,GMT+07:00
+Nice Cote d'Azur Airport,NCE,LFMN,France,GMT+01:00
+Oakland International Airport,OAK,KOAK,United States,GMT-07:00
+Osaka Kansai International Airport,KIX,RJBB,Japan,GMT+09:00
+Ouagadougou Airport,OUA,DFFD,Burkina Faso,GMT+00:00
+Palm Springs International Airport,PSP,KPSP,United States,GMT-07:00
+Paris Charles de Gaulle Airport,CDG,LFPG,France,GMT+01:00
+Paris Le Bourget Airport,LBG,LFPB,France,GMT+01:00
+Perth Airport,PER,YPPH,Australia,GMT+08:00
+Perugia Umbria International Airport,PEG,LIRZ,Italy,GMT+01:00
+Philadelphia International Airport,PHL,KPHL,United States,GMT-04:00
+Philadelphia Northeast Airport,PNE,KPNE,United States,GMT-04:00
+Phnom Penh Techo International Airport,KTI,VDTI,Cambodia,GMT+07:00
+Phu Quoc International Airport,PQC,VVPQ,Vietnam,GMT+07:00
+Phuket International Airport,HKT,VTSP,Thailand,GMT+07:00
+Pleiku Airport,PXU,VVPK,Vietnam,GMT+07:00
+Porto Francisco de Sa Carneiro Airport,OPO,LPPR,Portugal,GMT+00:00
+Providenciales International Airport,PLS,MBPV,Turks And Caicos Islands,GMT-04:00
+Quang Ninh Van Don International Airport,VDO,VVVD,Vietnam,GMT+07:00
+Qui Nhon Phu Cat Airport,UIH,VVPC,Vietnam,GMT+07:00
+Quito Mariscal Sucre International Airport,UIO,SEQM,Ecuador,GMT-05:00
+RAF Northolt,NHT,EGWU,United Kingdom,GMT+00:00
+Rach Gia Airport,VKG,VVRG,Vietnam,GMT+07:00
+Rhodes International Airport,RHO,LGRP,Greece,GMT+02:00
+Rifle Garfield County Airport,RIL,KRIL,United States,GMT-06:00
+Saint John Airport,YSJ,CYSJ,Canada,GMT-03:00
+Salt Lake City International Airport,SLC,KSLC,United States,GMT-06:00
+San Diego McClellan Palomar Airport,CLD,KCRQ,United States,GMT-07:00
+San Francisco International Airport,SFO,KSFO,United States,GMT-07:00
+San Jose International Airport,SJC,KSJC,United States,GMT-07:00
+San Jose del Cabo Los Cabos International Airport,SJD,MMSD,Mexico,GMT-07:00
+San Juan Luis Munoz Marin International Airport,SJU,TJSJ,Puerto Rico,GMT-04:00
+Santa Ana John Wayne Airport,SNA,KSNA,United States,GMT-07:00
+Santa Barbara Municipal Airport,SBA,KSBA,United States,GMT-07:00
+Santa Rosa Sonoma County Airport,STS,KSTS,United States,GMT-07:00
+Sao Vang Tho Xuan Airport,THD,VVTX,Vietnam,GMT+07:00
+Sarasota Bradenton International Airport,SRQ,KSRQ,United States,GMT-04:00
+Scottsdale Airport,SCF,KSDL,United States,GMT-07:00
+Seattle Boeing Field,BFI,KBFI,United States,GMT-07:00
+Seoul Incheon International Airport,ICN,RKSI,South Korea,GMT+09:00
+Seville San Pablo Airport,SVQ,LEZL,Spain,GMT+01:00
+Shanghai Pudong International Airport,PVG,ZSPD,China,GMT+08:00
+Siem Reap Angkor International Airport,SAI,VDSA,Cambodia,GMT+07:00
+Singapore Changi Airport,SIN,WSSS,Singapore,GMT+08:00
+Sint Maarten Princess Juliana International Airport,SXM,TNCM,Netherlands,GMT-04:00
+Sion Airport,SIR,LSGS,Switzerland,GMT+01:00
+Southampton Airport,SOU,EGHI,United Kingdom,GMT+00:00
+Statesville Regional Airport,SVH,KSVH,United States,GMT-04:00
+Stuart Witham Field Airport,SUA,KSUA,United States,GMT-04:00
+Sydney Kingsford Smith Airport,SYD,YSSY,Australia,GMT+11:00
+Taichung Airport,RMQ,RCMQ,Taiwan,GMT+08:00
+Taipei Taoyuan International Airport,TPE,RCTP,Taiwan,GMT+08:00
+Teterboro Airport,TEB,KTEB,United States,GMT-04:00
+Thermal Jacqueline Cochran Regional Airport,TRM,KTRM,United States,GMT-07:00
+Tianjin Binhai International Airport,TSN,ZBTJ,China,GMT+08:00
+Tokyo Haneda International Airport,HND,RJTT,Japan,GMT+09:00
+Tokyo Narita International Airport,NRT,RJAA,Japan,GMT+09:00
+Tuy Hoa Dong Tac Airport,TBB,VVTH,Vietnam,GMT+07:00
+Van Nuys Airport,VNY,KVNY,United States,GMT-07:00
+Venice Municipal Airport,VNC,KVNC,United States,GMT-04:00
+Vero Beach Regional Airport,VRB,KVRB,United States,GMT-04:00
+Vientiane Wattay International Airport,VTE,VLVT,Laos,GMT+07:00
+Vinh Airport,VII,VVVH,Vietnam,GMT+07:00
+Washington Dulles International Airport,IAD,KIAD,United States,GMT-04:00
+West Palm Beach International Airport,PBI,KPBI,United States,GMT-04:00
+Westhampton Beach Francis S Gabreski Airport,FOK,KFOK,United States,GMT-04:00
+White Plains Westchester County Airport,HPN,KHPN,United States,GMT-04:00
+Winston-Salem Smith Reynolds Airport,INT,KINT,United States,GMT-04:00
+Zurich Airport,ZRH,LSZH,Switzerland,GMT+01:00

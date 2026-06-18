@@ -1,0 +1,12 @@
+# Core data pipeline
+beautifulsoup4
+metar
+numpy
+pandas
+pytz
+requests
+timezonefinder
+
+# Notebook / EDA
+ipython
+matplotlib
