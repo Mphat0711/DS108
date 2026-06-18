@@ -6,7 +6,7 @@ This project collects, preprocesses, engineers, and merges aviation data for ana
 
 - Tran Minh Phat - 24521317
 - Vo Kieu Oanh - 24521286
-Faculty of Information Science and Engineering
+- Faculty of Information Science and Engineering
 ## Project Structure
 
 ```text
